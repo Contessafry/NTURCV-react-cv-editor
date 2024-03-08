@@ -1,0 +1,50 @@
+{
+  "informazioniPersonali": {
+    "foto": "public/propic.jpeg",
+    "nome": "Mario Rossi",
+    "email": "mario.rossi@example.com",
+    "telefono": "+39 123 456 7890",
+    "indirizzo": "Via Roma 1, 12345 Milano, Italia",
+    "linkedin": "linkedin.com/in/mariorossi",
+    "github": "github.com/mariorossi"
+  },
+  "riassunto": "Sono uno sviluppatore software con 5 anni di esperienza...",
+  "esperienzeLavorative": [
+    {
+      "ruolo": "Sviluppatore Frontend",
+      "azienda": "Tech Solutions S.p.A.",
+      "periodo": "Gennaio 2020 - Presente",
+      "descrizione": "Sviluppo e manutenzione di applicazioni web..."
+    },
+    {
+      "ruolo": "Sviluppatore Web",
+      "azienda": "Web Agency XYZ",
+      "periodo": "Giugno 2018 - Dicembre 2019",
+      "descrizione": "Realizzazione di siti web e applicazioni..."
+    }
+  ],
+  "formazione": [
+    {
+      "titolo": "Laurea in Informatica",
+      "istituto": "Università degli Studi di Milano",
+      "periodo": "2015 - 2018"
+    },
+    {
+      "titolo": "Diploma di Maturità Scientifica",
+      "istituto": "Liceo Scientifico A. Einstein",
+      "periodo": "2010 - 2015"
+    }
+  ],
+  "competenze": ["JavaScript", "React", "Node.js", "CSS", "HTML"],
+  "lingue": [
+    {
+      "lingua": "Italiano",
+      "livello": "Madrelingua"
+    },
+    {
+      "lingua": "Inglese",
+      "livello": "B2"
+    }
+  ],
+  "interessi": ["Programmazione", "Musica", "Escursionismo"]
+}
